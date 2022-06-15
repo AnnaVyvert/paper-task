@@ -4,8 +4,11 @@ Calculation the number of squares whose sides are folded in one direction.
 The paper is folded by four instructions:
 
 A = 0 (vertical) left side of the paper on the right, upward
+
 B = 2 (vertical) left side of the paper on the right, down
+
 C = 1 (horizontal) underpart of the paper to the top, upward
+
 D = 3 (horizontal) underpart of the paper to the top, down
 
 number of the horizontal squares = even

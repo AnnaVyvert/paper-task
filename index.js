@@ -139,7 +139,7 @@ function nSQ(){
               v[i][j]==g[i-1][j] &&
               v[i][j]==g[i][j]
       nSquart+=rightsq
-      paper[i-1][j]=+rightsq==0? '.':'R'
+      paper[i-1][j]=rightsq==0? '.':'R'
     }
   }
   return nSquart
